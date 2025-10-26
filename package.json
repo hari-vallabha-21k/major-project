@@ -1,0 +1,12 @@
+{
+  "name": "breast_cancer_classifier",
+  "version": "1.0.0",
+  "description": "Minimal package.json created so npm commands don't fail. Add dependencies or scripts as needed.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"No dev script defined. Update package.json scripts.dev to run your dev server.\""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
